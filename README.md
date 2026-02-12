@@ -3,6 +3,13 @@
 An AI-powered automated data analytics system that acts like a virtual data analyst.  
 This project allows users to upload datasets and automatically performs data cleaning, exploratory data analysis, insight generation, and visualization.
 
+## 🌐 Live Demo
+
+🔗 **Try the app here:**  
+👉 https://sda-agent-4kpsmomb7lmhvvdxvypgno.streamlit.app/
+
+An intelligent, automated data analytics system...
+
 ---
 
 ## 🚀 Project Overview
